@@ -1,0 +1,21 @@
+{
+  "songs":[
+    {
+      "title": "Hoolonnikoo",
+      "singer": "Guta Taklu",
+      "album": "Album 1",
+      "lyrics": "Hoolonnikoo anaan beekuu \n ani sirrii isaaniin beeka",
+      
+      "telegramLink": "https://t.me/song1"
+    },
+    {
+      "title": "Fayyisaakoo",
+      "singer": "Guta Taklu",
+      "album": "Album 1",
+      "lyrics": "fayyisaakoo qorichakoo",
+      
+      "telegramLink": "https://t.me/song2"
+    }
+  ],
+  "youtube":"http://www.youtube.com/@gutateklu3129"
+}
