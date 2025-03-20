@@ -1,0 +1,104 @@
+
+
+{
+  "songs":[
+    {
+      "title": "Yerusalem",
+      "singer": "Adisu Wayima",
+      "album": "Album 1",
+      "lyrics": "These are the lyrics for Song 1 \n yommuuttin yaadadhuu",
+      "youtubeLink": "https://www.youtube.com/watch?v=example1",
+      "telegramLink": "https://t.me/song1"
+    },
+    {
+      "title": "Qoodan qaba ",
+      "singer": "Adisu Wayima",
+      "album": "Album 1",
+      "lyrics": "These are the lyrics for Song 2",
+      "youtubeLink": "https://www.youtube.com/watch?v=example1",
+      "telegramLink": "https://t.me/song2"
+    },
+
+
+    {
+      "title": "Yesus si'i kankoo",
+      "singer": "Amanti Kumara",
+      "album": "Album 1",
+      "lyrics": "These are the lyrics for Song 1 \n yommuuttin yaadadhuu",
+      "youtubeLink": "https://www.youtube.com/watch?v=example1",
+      "telegramLink": "https://t.me/song1"
+    },
+    {
+      "title": "Dabareen kankootii",
+      "singer": "Amanti Kumara",
+      "album": "Album 1",
+      "lyrics": "These are the lyrics for Song 2",
+      "youtubeLink": "https://www.youtube.com/watch?v=example1",
+      "telegramLink": "https://t.me/song2"
+    },
+    {
+      "title": "Otoon sin jaallatiin",
+      "singer": "Amanti Kumara",
+      "album": "Album 1",
+      "lyrics": "These are the lyrics for Song 1 \n yommuuttin yaadadhuu",
+      "youtubeLink": "https://www.youtube.com/watch?v=example1",
+      "telegramLink": "https://t.me/song1"
+    },
+    {
+      "title": "Garaa Jaalalaa",
+      "singer": "Amanti Kumara",
+      "album": "Album 1",
+      "lyrics": "These are the lyrics for Song 2",
+      "youtubeLink": "https://www.youtube.com/watch?v=example1",
+      "telegramLink": "https://t.me/song2"
+    },
+    {
+      "title": "Waanan Argu Hunduu",
+      "singer": "Amanti Kumara",
+      "album": "Album 1",
+      "lyrics": "These are the lyrics for Song 1 \n yommuuttin yaadadhuu",
+      "telegramLink": "https://t.me/song1"
+    },
+    {
+      "title": "Gooftaa koo simalee",
+      "singer": "Amanti Kumara",
+      "album": "Album 1",
+      "lyrics": "These are the lyrics for Song 2",
+      "youtubeLink": "https://www.youtube.com/watch?v=example1",
+      "telegramLink": "https://t.me/song2"
+    },
+    {
+      "title": "yommuuttin yaadadhuu",
+      "singer": "Amanti Kumara",
+      "album": "Album 1",
+      "lyrics": "These are the lyrics for Song 1 \n yommuuttin yaadadhuu",
+      "youtubeLink": "https://www.youtube.com/watch?v=example1",
+      "telegramLink": "https://t.me/song1"
+    },
+    {
+      "title": "Dhalachuu kootii jalqabdee",
+      "singer": "Amanti Kumara",
+      "album": "Album 1",
+      "lyrics": "These are the lyrics for Song 2",
+      "youtubeLink": "https://www.youtube.com/watch?v=example1",
+      "telegramLink": "https://t.me/song2"
+    },
+
+    {
+      "title": "yommuuttin yaadadhuu",
+      "singer": "Amanti Kumara",
+      "album": "Album 1",
+      "lyrics": "These are the lyrics for Song 1 \n yommuuttin yaadadhuu",
+      "youtubeLink": "https://www.youtube.com/watch?v=example1",
+      "telegramLink": "https://t.me/song1"
+    },
+    {
+      "title": "Dhalachuu kootii jalqabdee",
+      "singer": "Amanti Kumara",
+      "album": "Album 1",
+      "lyrics": "These are the lyrics for Song 2",
+      "youtubeLink": "https://www.youtube.com/watch?v=example1",
+      "telegramLink": "https://t.me/song2"
+    }
+  ]
+}
