@@ -1,7 +1,7 @@
 [
    
-   "https://raw.githubusercontent.com/soressam/song-data/main/1st_c_ballad_songs.json",
-   "https://raw.githubusercontent.com/soressam/song-data/main/1st_c_chikkhikta_songs.json ",
+    "https://raw.githubusercontent.com/soressam/song-data/main/1st_c_ballad_songs.json",
+    "https://raw.githubusercontent.com/soressam/song-data/main/1st_c_chikkhikta_songs.json ",
     "https://raw.githubusercontent.com/soressam/song-data/main/1st_c_disco_songs.json",
     "https://raw.githubusercontent.com/soressam/song-data/main/1st_c_reggae_songs.json",
     "https://raw.githubusercontent.com/soressam/song-data/main/1st_c_slowrock_songs.json",
@@ -9,7 +9,7 @@
     "https://raw.githubusercontent.com/soressam/song-data/main/1st_c_wello_songs.json",
    
     "https://raw.githubusercontent.com/soressam/song-data/main/2nd_d_chikkhikta_songs.json",
-   "https://raw.githubusercontent.com/soressam/song-data/main/2nd_d_disco_songs.json",
+    "https://raw.githubusercontent.com/soressam/song-data/main/2nd_d_disco_songs.json",
     "https://raw.githubusercontent.com/soressam/song-data/main/2nd_d_reggae_songs.json",
     "https://raw.githubusercontent.com/soressam/song-data/main/2nd_d_slowrock_songs.json",
     "https://raw.githubusercontent.com/soressam/song-data/main/2nd_d_waltz_songs.json",
@@ -17,7 +17,7 @@
     "https://raw.githubusercontent.com/soressam/song-data/main/2nd_d_wello_songs.json",
 
     "https://raw.githubusercontent.com/soressam/song-data/main/5th_g_chikkhikta_songs.json",
-   "https://raw.githubusercontent.com/soressam/song-data/main/5th_g_disco_songs.json ",
+    "https://raw.githubusercontent.com/soressam/song-data/main/5th_g_disco_songs.json ",
     "https://raw.githubusercontent.com/soressam/song-data/main/5th_g_reggae_songs.json",
     "https://raw.githubusercontent.com/soressam/song-data/main/5th_g_slowrock_songs.json",
     "https://raw.githubusercontent.com/soressam/song-data/main/5th_g_waltz_songs.json",
@@ -25,7 +25,7 @@
 
 
     "https://raw.githubusercontent.com/soressam/song-data/main/6th_a_chikkhikta_songs.json",
-   "https://raw.githubusercontent.com/soressam/song-data/main/6th_a_reggae_songs.json",
+    "https://raw.githubusercontent.com/soressam/song-data/main/6th_a_reggae_songs.json",
     "https://raw.githubusercontent.com/soressam/song-data/main/6th_a_slowrock_songs.json",
     "https://raw.githubusercontent.com/soressam/song-data/main/6th_a_waltz_songs.json",
     "https://raw.githubusercontent.com/soressam/song-data/main/6th_a_wello_songs.json",
@@ -34,14 +34,14 @@
    
    "https://raw.githubusercontent.com/soressam/song-data/main/aage_firomsa.json",
    "https://raw.githubusercontent.com/soressam/song-data/main/ababa_temesgen.json",
-  "https://raw.githubusercontent.com/soressam/song-data/main/abara_gudata.json",
-    "https://raw.githubusercontent.com/soressam/song-data/main/abarash_dagnachew.json",
+   "https://raw.githubusercontent.com/soressam/song-data/main/abara_gudata.json",
+   "https://raw.githubusercontent.com/soressam/song-data/main/abarash_dagnachew.json",
    "https://raw.githubusercontent.com/soressam/song-data/main/abate_gemechu.json",
    "https://raw.githubusercontent.com/soressam/song-data/main/abitew_kebede.json",
    "https://raw.githubusercontent.com/soressam/song-data/main/adisu_wayima.json",
-    "https://raw.githubusercontent.com/soressam/song-data/main/alamu_mokonnin.json",
+   "https://raw.githubusercontent.com/soressam/song-data/main/alamu_mokonnin.json",
   "https://raw.githubusercontent.com/soressam/song-data/main/amanti_kumara.json",
-   "https://raw.githubusercontent.com/soressam/song-data/main/aster_kababa.json",
+    "https://raw.githubusercontent.com/soressam/song-data/main/aster_kababa.json",
 
 
 
@@ -54,8 +54,8 @@
    "https://raw.githubusercontent.com/soressam/song-data/main/elias_gabula.json",
    "https://raw.githubusercontent.com/soressam/song-data/main/feben_itana.json",
    "https://raw.githubusercontent.com/soressam/song-data/main/gurmesa_tesfaye.json",
- "https://raw.githubusercontent.com/soressam/song-data/main/guta_taklu.json",
-    "https://raw.githubusercontent.com/soressam/song-data/main/gutu_shifara.json",
+   "https://raw.githubusercontent.com/soressam/song-data/main/guta_taklu.json",
+   "https://raw.githubusercontent.com/soressam/song-data/main/gutu_shifara.json",
    "https://raw.githubusercontent.com/soressam/song-data/main/janet_mitiku.json",
    "https://raw.githubusercontent.com/soressam/song-data/main/kaba_fido.json",
    "https://raw.githubusercontent.com/soressam/song-data/main/magarsa_bekele.json",
