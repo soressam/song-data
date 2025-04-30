@@ -1,5 +1,17 @@
 {
   "songs": [
+
+
+    {
+      "uniqueKey": "aage_firomsa_album_17",
+      "singer": "Aage Firomsa",
+      "title": "gooftaa",
+      "addedDate": "2025-04-30 22:52",
+      "album": "Album 2",
+      "lyrics": "Yesuus",
+      "telegramLink": "https://t.me/+Uyp0dOSTkos2Nzhk"
+    },
+    
     {
       "uniqueKey": "aage_firomsa_album_01",
       "singer": "Aage Firomsa",
@@ -148,11 +160,24 @@
       "uniqueKey": "aage_firomsa_album_17",
       "singer": "Aage Firomsa",
       "title": "Haalleluyyaa",
-      "addedDate": "2025-04-01 16:15",
+      "addedDate": "2025-04-30 22:52",
+      "album": "Album 2",
+      "lyrics": "updated Yesuus",
+      "telegramLink": "https://t.me/+Uyp0dOSTkos2Nzhk"
+    },
+
+
+
+{
+      "uniqueKey": "aage_firomsa_album_17",
+      "singer": "Aage Firomsa",
+      "title": "ameen",
+      "addedDate": "2025-04-30 22:52",
       "album": "Album 2",
       "lyrics": "Yesuus",
       "telegramLink": "https://t.me/+Uyp0dOSTkos2Nzhk"
     }
+    
   ],
   "youtube": "http://www.youtube.com/@AgeeFiroomsaa"
 }
