@@ -1,22 +1,20 @@
 {
   "songs": [
-    
-
     {
-     "singer": "Dawit Girma",
-
+      "uniqueKey": "5th_wello_scale_01",
+      "singer": "Dawit Girma",
       "title": "Fayyisaakoo",
- "addedDate": "2025-04-01 16:15",
+      "addedDate": "2025-04-01 16:15",
       "lyrics": "",
-       "telegramLink": "https://t.me/+Uyp0dOSTkos2Nzhk"
+      "telegramLink": "https://t.me/+Uyp0dOSTkos2Nzhk"
     },
     {
-     "singer": "Phawulos Tegegn",
-
+      "uniqueKey": "5th_wello_scale_02",
+      "singer": "Phawulos Tegegn",
       "title": "Galatarratti Galata",
-       "addedDate": "2025-04-01 16:15",
+      "addedDate": "2025-04-01 16:15",
       "lyrics": "",
-       "telegramLink": "https://t.me/+Uyp0dOSTkos2Nzhk"
+      "telegramLink": "https://t.me/+Uyp0dOSTkos2Nzhk"
     }
   ],
   "youtube": "http://www.youtube.com/@SoressaM"

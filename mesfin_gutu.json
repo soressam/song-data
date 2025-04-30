@@ -1,45 +1,41 @@
 {
   "songs": [
-  
     {
+      "uniqueKey": "mesfin_gutu_album_01",
       "singer": "Mesfin Gutu",
       "title": "Furmaataaf Samirraa Dhufte",
-       "addedDate": "2025-04-01 16:15",
+      "addedDate": "2025-04-01 16:15",
       "album": "Album 1",
       "lyrics": "Furmaataaf samiirra dhuftee \nNamootaaf jireenya laatte\nDhiigaa keen nu qulleessite\nAti cubbuu hin hojjennee\nYaakki sirra hin argamnee\nYesuuus atoof naa laattee \nCubbuu koof faannifamtee\nJaalalaas argeera kan namaa\nIsa kan kee hin agarre gonkumaa\n[Lubbuu kees naaf laatte \nJaalalli kees adda dhugumaa] *2\n\nSitti hin hir'atuure \n  Abbaa\nSitti hin hir'atuuree\nSitti hin yaratuure \n  Yesuus\nSitti hin yaratuure\n[Gadi of deebisee\nUlfina  koo dhiisee\nYoon faarsee] *4\n\nFoon uffatee Waaqarraa gad bu'ee\nWaa'ee cubbuu keenyaaf kan du'ee\nYakka garaa namaaf fannoorratti ol ba'ee nuuf du'e *2\nYoon faarsee sitti hin hir'atuure\n\n[Jaalalaas argeera kan namaa\nIsa kan kee hin agarre gonkumaa\n[Lubbuu kees naaf laatte \nJaalalli kees adda dhugumaa] *2] *2",
       "telegramLink": "https://t.me/+Uyp0dOSTkos2Nzhk"
     },
-
     {
+      "uniqueKey": "mesfin_gutu_album_02",
       "singer": "Mesfin Gutu",
       "title": "Seenaa miti Wangeelli",
-       "addedDate": "2025-04-01 16:15",
+      "addedDate": "2025-04-01 16:15",
       "album": "Album 1",
       "lyrics": " ",
       "telegramLink": "https://t.me/+Uyp0dOSTkos2Nzhk"
     },
-
     {
+      "uniqueKey": "mesfin_gutu_album_03",
       "singer": "Mesfin Gutu",
       "title": "Nama hin Gatu",
-       "addedDate": "2025-04-01 16:15",
+      "addedDate": "2025-04-01 16:15",
       "album": "Album 1",
       "lyrics": "Nama hin gatu\n Nan irraanfatu *3",
       "telegramLink": "https://t.me/+Uyp0dOSTkos2Nzhk"
     },
-
     {
+      "uniqueKey": "mesfin_gutu_album_04",
       "singer": "Mesfin Gutu",
       "title": "Yesuus Jaalallee",
-       "addedDate": "2025-04-01 16:15",
+      "addedDate": "2025-04-01 16:15",
       "album": "Album 1",
       "lyrics": "Yesuus Jaalallee afaan duwwaan miti\nHojiin mul'attee qaraaniyoorratti\nDhiigasaa lolasee Du'a jalaa nu baasee\nYesuus Dhuguma nu dinqisisee ",
       "telegramLink": "https://t.me/+Uyp0dOSTkos2Nzhk"
     }
-
-
-
-
   ],
   "youtube": "http://www.youtube.com/@mesfingutuofficialchannel"
 }

@@ -1,6 +1,7 @@
 {
   "songs": [
     {
+      "uniqueKey": "1st_disco_scale_01",
       "singer": "Abate Gemechu",
       "title": "Ishoo",
       "addedDate": "2025-04-01 16:15",
@@ -9,6 +10,7 @@
       "telegramLink": "https://t.me/+Uyp0dOSTkos2Nzhk"
     },
     {
+      "uniqueKey": "1st_disco_scale_02",
       "singer": "----------",
       "title": "Ergan Fayyee",
       "addedDate": "2025-04-01 16:15",
@@ -17,6 +19,7 @@
       "telegramLink": "https://t.me/+Uyp0dOSTkos2Nzhk"
     },
     {
+      "uniqueKey": "1st_disco_scale_03",
       "singer": "Befikadu Bekele",
       "title": "Innichi na baate Barruunke ",
       "addedDate": "2025-04-01 16:15",
@@ -25,6 +28,7 @@
       "telegramLink": "https://t.me/+Uyp0dOSTkos2Nzhk"
     },
     {
+      "uniqueKey": "1st_disco_scale_04",
       "singer": "------------",
       "title": "At Dhuguma Waaqa ",
       "addedDate": "2025-04-01 16:15",
@@ -32,9 +36,8 @@
       "lyrics": "At dhuguma waaqaa *3\nEgaa maal Jennaree Maqaa kee faarfannaa",
       "telegramLink": "https://t.me/+Uyp0dOSTkos2Nzhk"
     },
-
-
     {
+      "uniqueKey": "1st_disco_scale_05",
       "singer": "Magarsa Bekele",
       "title": "TasanBannu ",
       "addedDate": "2025-04-01 16:15",
@@ -42,20 +45,15 @@
       "lyrics": "Hin kufnu laafnee ofirra gad hin teenyu",
       "telegramLink": "https://t.me/+Uyp0dOSTkos2Nzhk"
     },
-
-     {
+    {
+      "uniqueKey": "1st_disco_scale_06",
       "singer": "Abdi Borii Nekemte Mekane Yesus",
       "title": "Haalleeluyyaa ",
-       "addedDate": "2025-04-01 16:15",
+      "addedDate": "2025-04-01 16:15",
       "album": "Album 1",
       "lyrics": "Yommuu godoon keenya jijjiguu\nDu'aan biyya lafaarraa godaannu\nNuti akka warra kaanii hin gaddinuu\n[Arguuf jirra abbaa keenya furii lubbuu keenyaa]*2\n\nYeerusaleem mandara ishee haaratti galuufan jiraa\nAkka hawwetti hin hafuu garaankoo dhufee nan na fudhataa\n[Haalleluuyyaa]*7\n\nYommuu biyya abdiikoo sana gau\nBeeluuf dheebuun hin hafaa\nAchitti bo'ichi hin argamuu\nYeroo hundaan gammadaa nan farfaadha\n[Haalleluuyyaa]*6\n\n[Amma asitti addunya kanarraatti         \nWarran of biraa isaan dhabee \nAbdii qabaa nan argaan ammas          \nYemmuu deebisee fiduun dhaaphee]*2   \n\n[Aniis ilaala hin hafuu\nOolan butama garasaa ] *2\n[Waliin jiraanna ulfinaan\nYeroo hundaa qabbana bobaasaa]*2",
       "telegramLink": "https://t.me/+Uyp0dOSTkos2Nzhk"
     }
-    
-
-    
-    
-
   ],
   "youtube": "http://www.youtube.com/@SoressaM"
 }

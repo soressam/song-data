@@ -1,81 +1,68 @@
 {
   "songs": [
-
-
- {
+    {
+      "uniqueKey": "abarash_dagnachew_album_01",
       "singer": "Abarash Dagnachew",
       "title": "Inni Beekadha",
- "addedDate": "2025-04-01 16:15",
+      "addedDate": "2025-04-01 16:15",
       "album": "Album 1",
       "lyrics": "Leyyoo ko narraa kaase gatii ko narraa baase\nGaanfa ko olol qabe Galataafis na dhaabe\nAarsaa galata foolii gaarii\nSimee fudhata har'as boorii\nGaraa ko guutu nan dhiyeessaa\nMaal maal dinqiidha Jaalallisaa\n[Inni beekadha eeyyeen waaqayyo inni beekadha] *2\n\nLafti yommuu raafamtee gaaronni yommuu roma'anii waanti qabatan dhibe\nUlfinaaf dandeettii koo fira aantekoo ta'ee ariitin na qaqqabe\nOl garasaa ilaalee ijakoos ol fudhadhee nan dhiisiin maaloo jedhee\nBa'aa ko isa ulfaataa leyyooko bara dheeraa gooftaatu narraa fuudhe\n\nSeenaa hin dubbatamne gurrattis kan hin tolle gola keessaatiin qaba\nNamnis ijasaan argee gurrasaatiin dhaga'ee qubasaa natti qaba\nDhoksaa koof amanamee mudaa ko hunda naaf dhoksee nan arge yommuunni naaf falmu\nRakkina koo calaasee gatiiko narraa baasee ulfinaanan haa jajajmu\n\nGooftaako amanadhee hirkoo ko isa godhee yooman leyya'ee beeka\nMaqaasaatiin waamamee isaatiif adda ba'ee anaaf qabaam akeeka\nLafa onaaf duwwaa keessa eddoo homtuu hin jirre burqaa naaf burqisiise\nDiina ko maaltu dhibe leyyoo isa na oolche waaqakoo yoon leellise ",
       "telegramLink": "https://t.me/+Uyp0dOSTkos2Nzhk"
     },
-
-
     {
+      "uniqueKey": "abarash_dagnachew_album_02",
       "singer": "Abarash Dagnachew",
       "title": "Waaqayyo kattaakooti",
-       "addedDate": "2025-04-01 16:15",
+      "addedDate": "2025-04-01 16:15",
       "album": "Album 1",
       "lyrics": "Waaqayyo kattaakooti anaaf eddoo baqaakooti",
       "telegramLink": "https://t.me/+Uyp0dOSTkos2Nzhk"
     },
-
-
     {
+      "uniqueKey": "abarash_dagnachew_album_03",
       "singer": "Abarash Dagnachew",
       "title": "Ati Gaachana kooti",
-       "addedDate": "2025-04-01 16:15",
+      "addedDate": "2025-04-01 16:15",
       "album": "Album 1",
       "lyrics": " ",
       "telegramLink": "https://t.me/+Uyp0dOSTkos2Nzhk"
     },
-
     {
+      "uniqueKey": "abarash_dagnachew_album_04",
       "singer": "Abarash Dagnachew",
       "title": "Abbaakoo",
-       "addedDate": "2025-04-01 16:15",
+      "addedDate": "2025-04-01 16:15",
       "album": "Album 1",
       "lyrics": "Abbaakoo ati naaf hundaakoo\nGooftaakoo anaaf ulfinakoo\nda'oo koo warqeedhaaf meetiikoo\nHirkoo oosurraakoof simbookoo\nSiinan miidhage sinan bareede\nSiinan urgaa'e sin na urgeesse\nFooliin saa gaarii kan nama waamu\nNa keessa keesse gonkuma hin mamu",
       "telegramLink": "https://t.me/+Uyp0dOSTkos2Nzhk"
     },
-
     {
+      "uniqueKey": "abarash_dagnachew_album_05",
       "singer": "Abarash Dagnachew",
       "title": "Ati Gooftaadha",
-       "addedDate": "2025-04-01 16:15",
+      "addedDate": "2025-04-01 16:15",
       "album": "Album 1",
       "lyrics": "Ati Gooftadha*4\nBarri sin jijjiiru\nTeessoo ke hin gadhiistu\nBara baraan jiraatta",
       "telegramLink": "https://t.me/+Uyp0dOSTkos2Nzhk"
     },
-
-
     {
+      "uniqueKey": "abarash_dagnachew_album_06",
       "singer": "Abarash Dagnachew",
       "title": "Waaqayyoo",
-       "addedDate": "2025-04-01 16:15",
+      "addedDate": "2025-04-01 16:15",
       "album": "Album 1",
       "lyrics": "Waaqayyoo oooo naaf gara laafessa naaf oo'a qabeessa",
       "telegramLink": "https://t.me/+Uyp0dOSTkos2Nzhk"
     },
-    
-   
-
-
     {
+      "uniqueKey": "abarash_dagnachew_album_07",
       "singer": "Abarash Dagnachew",
       "title": "Michuu Dhugaa",
-       "addedDate": "2025-04-01 16:15",
+      "addedDate": "2025-04-01 16:15",
       "album": "Album 1",
       "lyrics": "Michuu dhugaa amanama\nMichuu Gaarii Gaafa hundumaa\n[Kanaafan si waamaa galgalaaf ganamaa\nSitoo nama hin nuffuu Gooftaakoo Dhugumaa]*2 ",
       "telegramLink": "https://t.me/+Uyp0dOSTkos2Nzhk"
     }
-
-    
-
-
-
-
   ],
   "youtube": "http://www.youtube.com/@AberashDagnachewOfficial"
 }
