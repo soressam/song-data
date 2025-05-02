@@ -1,0 +1,25 @@
+{
+  "songs": [
+    
+    {
+      "uniqueKey": "dawit_morka_album_01",
+      "singer": "Dawit Morka",
+      "title": "Haa Dubbatu",
+      "addedDate": "2025-04-01 16:15",
+      "album": "Album 1",
+      "lyrics": "Barabaraaanii yessuus wajjin hin baanu addaani",
+      "telegramLink": "https://t.me/+Uyp0dOSTkos2Nzhk"
+    },
+    {
+      "uniqueKey": "dawit_morka_album_02",
+      "singer": "Dawit Morka",
+      "title": "Burqaa Nagaakoo",
+      "addedDate": "2025-04-01 16:15",
+      "album": "Singles",
+      "lyrics": "Haala koo ilaaltee natti hin geeddaramne",
+      "telegramLink": "https://t.me/+Uyp0dOSTkos2Nzhk"
+    }
+    
+  ],
+  "youtube": "http://www.youtube.com"
+}
