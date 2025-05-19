@@ -134,8 +134,16 @@
           "album": "Album 1",
           "lyrics": "Yesuus Karaadha",
           "telegramLink": "https://t.me/Weedduuk00/1999"
+      },
+      {
+          "uniqueKey": "ababa_temesgen_album_16",
+          "singer": "Ababa Temesgen",
+          "title": "Ergati Jettee ",
+          "addedDate": "2025-04-01 16:15",
+          "album": "Album 1",
+          "lyrics": "Gooftaa Yesuus Ergati jettee nan darbadha\n",
+          "telegramLink": "https://t.me/Weedduuk00/1999"
       }
-
   ],
   "youtube": "https://www.youtube.com/@abebetnagasa8832"
 }
