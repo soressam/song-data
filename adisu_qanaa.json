@@ -1,91 +1,126 @@
 {
-  "songs": [
-    {
-      "uniqueKey": "adisu_qana_album_01",
-      "singer": "Adisu Qana'a",
-      "title": "Ol Galee Gadi Ba'ee",
-      "addedDate": "2025-04-01 16:15",
-      "album": "Album 1",
-      "lyrics": "Ol Galee gadi bahee an kanan waaqeffadhu\nQabeenya Dhuunfaa kootii kanan mararsiifadhu\nSii malee maalan qaba michuu dhugaa amanamaa\nSii malee maalan qaba isa dhumaaf kan jalqabaa\nMaqaa keen olol qaba\n\n[Siin Gaachana godhadhee murxuxxeerraa miliqee\nHarki kee naa mijatee hin argine na quuqee\nJaallatamee argeeraa jaalala hiriyyummaa\nMadaalumarra darba kee kunii walii lamaa]*2\n[Durako isa ture si jijjigse gaarichaa\nDhibee furmaata dhabe sirkaan arge qoorichaa\nIttiin kanan beekamu suma abbaan dhuunfaakoo\nSimalee maalan qaba Birmataa guyyaa rakkoo]*2\nYesuusee koo Hirkoo koo\n\n[Tola ketu na qaqqabe malee hin qabu gaarummaa\nAn kanaaf hin eegamne naaf laatte aboo mucummaa\nDhalachuu kiyyaa kaastee na dandeesse hamma har'aa\nNaaf taatetta waa hundaa an sitti boqodheera]*2\nHar'as ijikee narra ",
-      "telegramLink": "https://t.me/Weedduuk00/2031"
-    },
-    {
-      "uniqueKey": "adisu_qana_album_02",
-      "singer": "Adisu Qana'a",
-      "title": "Jaalala Nama Hundaa",
-      "addedDate": "2025-04-01 16:15",
-      "album": "Album 1",
-      "lyrics": "[Jaalalaa nama hundaa, argeera madaalee\nHundasaas qoradhee too madaale\nGaruu Kan kee adda kan nama aja'ibuu\nMadaalli hin qabuu, hin qabuu]* 2   \n\nKan akka keetti naa baatee, hin argineem tasumaa\nIddo baqaa naaf taate, da'oo, amanamaa aamanamaa\nEenyttan si madaala, kan si gitus kami\nHunda caala koo yesuus ati naaf waaqeffami, waaqeffamii\n[Jaalalaa nama hundaa, argeera madaalee\nHundasaa qoradhee too madaale\nGaruu Kan kee adda kan nama aja'ibuu\nMadaalli hin qabuu, hin qabuu]* 2 \n \nMarartee jaalalaatiin, ofit naa hawwatte\nUlfinaa kee akkan faarsuuf, ana barsifatte, barsiifatte\nKana boodde nan baasuu, eenyu tokko sittii\nkakuu bara baraatiin na mallatteffatti, ani keeti\n\nSiin weeddisa weeddu, si jajuu koo inni hin feenee\nWaan barbaadee haa jedhuu, haa jedhuu\nSiin jajadhaa itti fufee, orma maaltu dhibee\nLeenca yihudaa gootakoo, sit kannaf na dhaabe, ana dibee\n  Gooftaa yesuuskoo, amanannaakoo\n  Gooftaa yesuuskoo, michuu dhugaa koo\n  Gooftaa yesuuskoo, naaf gaachana koo\n  Gooftaa yesuuskoo, waan hundumaa koo",
-      "telegramLink": "https://t.me/Weedduuk00/2027"
-    },
-    {
-      "uniqueKey": "adisu_qana_album_03",
-      "singer": "Adisu Qana'a",
-      "title": "Jechan Dhaba Yesuuse",
-      "addedDate": "2025-04-01 16:15",
-      "album": "Album 1",
-      "lyrics": "Jechan Dhaba Yesuuse ittiin kanan si jajadhu\nNarra Darba kee kunii nan dhabe waanan dubbadhu",
-      "telegramLink": "https://t.me/Weedduuk00/2028"
-    },
-    {
-      "uniqueKey": "adisu_qana_album_04",
-      "singer": "Adisu Qana'a",
-      "title": "Goota Jabaa",
-      "addedDate": "2025-04-01 16:15",
-      "album": "Album 1",
-      "lyrics": "Yeroon sin geeddaru haallii gooftaa maccaa",
-      "telegramLink": "https://t.me/Weedduuk00/2026"
-    },
-    {
-      "uniqueKey": "adisu_qana_album_05",
-      "singer": "Adisu Qana'a",
-      "title": "Waaqayyoo Mana kee Jiraachuun",
-      "addedDate": "2025-04-01 16:15",
-      "album": "Album 1",
-      "lyrics": "Waaqayyoo mana ke jiraachuun akkam gaariidha\nGaarummaaf Jireenyi si bira ",
-      "telegramLink": "https://t.me/Weedduuk00/2033"
-    },
-    {
-      "uniqueKey": "adisu_qana_album_06",
-      "singer": "Adisu Qana'a",
-      "title": "Burqaa Nagaakoo",
-      "addedDate": "2025-04-01 16:15",
-      "album": "Album 1",
-      "lyrics": "Burqaa Nagaa koo Yesuus\nMootii ulfina Yesuus\nWaaqa Jaalala Yesus\nGalatan siif Qaba Yesuus",
-      "telegramLink": "https://t.me/Weedduuk00/2036"
-    },
-    {
-      "uniqueKey": "adisu_qana_album_07",
-      "singer": "Adisu Qana'a",
-      "title": "Lubbuu koo",
-      "addedDate": "2025-04-01 16:15",
-      "album": "Album 1",
-      "lyrics": "Lubbuu koo *3\nWaaqayyoon eebbisi\n Isaani Sirra Darbe Hojiin Badisi\n Lubbuu koo *3\nGaarummaaf Guddumasaa labsii baayisi",
-      "telegramLink": "https://t.me/Weedduuk00/2029"
-    },
+    "songs": [
+        {
+            "uniqueKey": "adisu_qana_album_01",
+            "singer": "Adisu Qana'a",
+            "title": "Ol Galee Gadi Ba'ee",
+            "addedDate": "2025-04-01 16:15",
+            "album": "Album 1",
+            "lyrics": "Ol Galee gadi bahee an kanan waaqeffadhu\nQabeenya Dhuunfaa kootii kanan mararsiifadhu\nSii malee maalan qaba michuu dhugaa amanamaa\nSii malee maalan qaba isa dhumaaf kan jalqabaa\nMaqaa keen olol qaba\n\n[Siin Gaachana godhadhee murxuxxeerraa miliqee\nHarki kee naa mijatee hin argine na quuqee\nJaallatamee argeeraa jaalala hiriyyummaa\nMadaalumarra darba kee kunii walii lamaa]*2\n[Durako isa ture si jijjigse gaarichaa\nDhibee furmaata dhabe sirkaan arge qoorichaa\nIttiin kanan beekamu suma abbaan dhuunfaakoo\nSimalee maalan qaba Birmataa guyyaa rakkoo]*2\nYesuusee koo Hirkoo koo\n\n[Tola ketu na qaqqabe malee hin qabu gaarummaa\nAn kanaaf hin eegamne naaf laatte aboo mucummaa\nDhalachuu kiyyaa kaastee na dandeesse hamma har'aa\nNaaf taatetta waa hundaa an sitti boqodheera]*2\nHar'as ijikee narra ",
+            "telegramLink": "https://t.me/Weedduuk00/2031"
+        },
+        {
+            "uniqueKey": "adisu_qana_album_02",
+            "singer": "Adisu Qana'a",
+            "title": "Jaalala Nama Hundaa",
+            "addedDate": "2025-04-01 16:15",
+            "album": "Album 1",
+            "lyrics": "[Jaalalaa nama hundaa, argeera madaalee\nHundasaas qoradhee too madaale\nGaruu Kan kee adda kan nama aja'ibuu\nMadaalli hin qabuu, hin qabuu]* 2   \n\nKan akka keetti naa baatee, hin argineem tasumaa\nIddo baqaa naaf taate, da'oo, amanamaa aamanamaa\nEenyttan si madaala, kan si gitus kami\nHunda caala koo yesuus ati naaf waaqeffami, waaqeffamii\n[Jaalalaa nama hundaa, argeera madaalee\nHundasaa qoradhee too madaale\nGaruu Kan kee adda kan nama aja'ibuu\nMadaalli hin qabuu, hin qabuu]* 2 \n \nMarartee jaalalaatiin, ofit naa hawwatte\nUlfinaa kee akkan faarsuuf, ana barsifatte, barsiifatte\nKana boodde nan baasuu, eenyu tokko sittii\nkakuu bara baraatiin na mallatteffatti, ani keeti\n\nSiin weeddisa weeddu, si jajuu koo inni hin feenee\nWaan barbaadee haa jedhuu, haa jedhuu\nSiin jajadhaa itti fufee, orma maaltu dhibee\nLeenca yihudaa gootakoo, sit kannaf na dhaabe, ana dibee\n  Gooftaa yesuuskoo, amanannaakoo\n  Gooftaa yesuuskoo, michuu dhugaa koo\n  Gooftaa yesuuskoo, naaf gaachana koo\n  Gooftaa yesuuskoo, waan hundumaa koo",
+            "telegramLink": "https://t.me/Weedduuk00/2027"
+        },
+
 
 
 {
-      "uniqueKey": "adisu_qana_album_08",
-      "singer": "Adisu Qana'a",
-      "title": "Dursee Yaadasaan Na qabe inni",
-      "addedDate": "2025-04-01 16:15",
-      "album": "Album 1",
-      "lyrics": "Yeroon sin geeddaru haallii gooftaa maccaa",
-      "telegramLink": "https://t.me/Weedduuk00/2025"
-    },
+    "uniqueKey": "adisu_qana_album_03",
+    "singer": "Adisu Qana'a",
+    "title": "Turi Fuula Waaqayyoo",
+    "addedDate": "2025-04-01 16:15",
+    "album": "Album 1",
+    "lyrics": "Turi fuula Waaqayyoo obsii callisii\nWaan yaaddoo sitti ta'uu isatti dhiisii\nHin jedhin yaa obboleekoo nan dagatame\nSi caalaa yaadaa inni waa'ee kee dhimmee\n\nGuungummii baay'isuun kakuu lafarra harkisuudha malee\nYeroo isaa hin gabaabsuu Waaqayyoon walitti nama buusa malee\nIja isaa akka sooratu namni ija harbuu isaa sonaan eeggatee\nInuma ulfaata malee hin salphatu kan gooftaa isaa eeggatee\n\nMijatanis mijachuudhaa baatanis haalonni addaa addaa\nWanti hundumtuu yeroo isaaf heyyamametti bareedaa\n                        (×2)\n\nDandeettii Waaqayyoo haalaaf taateewwan ijaan argamaniin\nIlaaltee madaaltee abdii kutannaa keessaa hin seeninii\nDuumessa ilaalaniihoo bokkaatu rooba jedhanii dubbachuu\nHaga kana raajuudhaaf eenyuyyuu in danda'a ija-jabaachuu\n\nKeenya garuu isa ijaan argamu kan warra biyya lafaatti addaa \nAmantiidhaan lafa onaa keessatti burqaa eeguudhaa\n                           (×2)\n\nKeenya garuu isa ijaan argamu kan warra biyya lafaatti addaa \nAmantiidhaan afaan raajota sobduu cuccufuudhaa\n\nKeenya garuu isa ijaan argamu kan warra biyya lafaatti addaa \nAmantiidhaan wanta Waaqayyo ciigga'u diduudhaa\n\nKeenya garuu isa ijaan argamu kan warra biyya lafaatti addaa \nAmantiidhaan du'a garasitti jireenya abdachuudhaa\n\nKeenya garuu isa ijaan argamu kan warra biyya lafaatti addaa \nAmantiidhaan bara ofii Waaqayyoon gammachiisuudhaa\n\nDachittii kanatu maramee darba malee\nSamiidhuma kanatu caccabee bada malee\nJechoonni afaan gooftaatii ba'anii \nTokko lafa hin bu'u utuu hin raawwatinii\n\nEegi malee \nEegi malee\nEegi malee Waaqayyo hin dursamu",
+    "telegramLink": "https://t.me/Weedduuk00/2028"
+},
+
+
+        {
+            "uniqueKey": "adisu_qana_album_04",
+            "singer": "Adisu Qana'a",
+            "title": "Jechan Dhaba Yesuuse",
+            "addedDate": "2025-04-01 16:15",
+            "album": "Album 1",
+            "lyrics": "[Jechan Dhaba Yesuuse ittiin kanan si jajadhu\nNarra Darba kee kunii nan dhabe waanan dubbadhu\nGalata kan koo fudhadhuu]*2\n\n[Oolmaa gurguddaa isaa narraa qabda ati\nMadaaluma dhabee tokko lama miti\nKamiin gatii baasee hiree hambisa lafatti\nGalatan siin jedha malee walumaa galatti]*2\n\nGatii narraa qabda oolmaa isa kaleessaa\nKan ati barbaaddee ana fidde eessa\n[Mi'eessiteetoo anoo argee jireenya hadhaa'e\nInni kunimmoo ragaadha anarratti ta'e]*2\n\n[Jechan Dhaba Yesuuse ittiin kanan si jajadhu\nNarra Darba kee kunii nan dhabe waanan dubbadhu\nGalata kan koo fudhadhuu]*2\n[Oolmaa gurguddaa isaa narraa qabda ati\nMadaaluma dhabee tokko lama miti\nKamiin gatii baasee hiree hambisa lafatti\nGalatan siin jedha malee walumaa galatti]*2\n\nAn Kanaaf hin malle taa'uuf tarree namaa\nIsa kam naan oollee argeera hundumaa\nAmanamaa Yesuusekoo Ya ulee gargaarsaa\nAfaan koo guuteetan kanaaf an galata faarsa *3\n\n[Jechan Dhaba Yesuuse ittiin kanan si jajadhu\nNarra Darba kee kunii nan dhabe waanan dubbadhu\nGalata kan koo fudhadhuu]*2\n[Oolmaa gurguddaa isaa narraa qabda ati\nMadaaluma dhabee tokko lama miti\nKamiin gatii baasee hiree hambisa lafatti\nGalatan siin jedha malee walumaa galatti]*2\n\nMoofa'aa seenaakoo kuultee haaressitee\nDabalata eebbaa maqaakoo jijjirtee\nMoggaasa kaleessaa sanaan lammata hin waamamu\nKan tahe hunduu siin naaf tahe maqaan ke haa jajajmu \n[Maqaan kee haa jajamu yesuus maqaan kee haa jajamu\nMaqaan kee haa jajamu gooftaa/mootii Maqaan kee haa jajamu]*4",
+            "telegramLink": "https://t.me/Weedduuk00/2028"
+        },
+        {
+            "uniqueKey": "adisu_qana_album_05",
+            "singer": "Adisu Qana'a",
+            "title": "Goota Jabaa",
+            "addedDate": "2025-04-01 16:15",
+            "album": "Album 1",
+            "lyrics": "Yeroon sin geeddaru haallii gooftaa maccaa",
+            "telegramLink": "https://t.me/Weedduuk00/2026"
+        },
+        {
+            "uniqueKey": "adisu_qana_album_06",
+            "singer": "Adisu Qana'a",
+            "title": "Mana kee Jiraachuun",
+            "addedDate": "2025-04-01 16:15",
+            "album": "Album 1",
+            "lyrics": "Kunuunfamuutu jiraa akka horii eegumsaa\nJiraachuun mana kee mooraa kee keessaa\nHomtuu nama hin tuquu achiif as deemanii\nBoqonnaa argatuu Yesuus siif ajajamanii.\n                  \nWaaqayyo Mana kee jiraachuun (akkam gaariidha *2)\nNi ifuu ganamaaf galgala akka (ifa bariidha *2),\n[Gaarummaaf jireenyi si biraa si biraa Gooftaa koo\nMana kee jiraachuun fo'adhaa iddoo biraarra guyyaa tokko.]*2\n\nFayyinatu qabaa gaaddisni harka kee\nQaana'ee hin beekuu kan dhufe gara kee\nAkka abbaa gaariitti namas ni gorfattaa\nKanaaf gaddi hin jiruu mana kee yaa Gooftaa.\n\nWaaqayyo Mana kee jiraachuun (akkam gaariidha *2)\nNi ifuu ganamaaf galgala akka (ifa bariidha *2),\n[Gaarummaaf jireenyi si biraa si biraa Gooftaa koo\nMana kee jiraachuun fo'adhaa iddoo biraarra guyyaa tokko.]*2\n\nGaarummaa mana kee inni mi'eeffatee\nBarruu keerraa taa'ee kan qabbaneeffatee\nYaa Gooftaa garaansaa akkam haa gammadduu\nNaaf wayyaa mana anis kanaa kanan fedhuu.\n\nWaaqayyo Mana kee jiraachuun (akkam gaariidha *2)\nNi ifuu ganamaaf galgala akka (ifa bariidha *2),\n[Gaarummaaf jireenyi si biraa si biraa Gooftaa koo\nMana kee jiraachuun fo'adhaa iddoo biraarra guyyaa tokko.]*2\n\nWaan darbuuf jedhanii waa meeqa lakkaa'uu\nMaal godhuu Gooftaa koo boroo lafa kaa'uu\nMana kee naaf wayyaa bara koo hundumaa\nWanta biraa mitim abbaa koo filannoon koo achumaa.\n\nWaaqayyo Mana kee jiraachuun (akkam gaariidha *2)\nNi ifuu ganamaaf galgala akka (ifa bariidha *2),\n[Gaarummaaf jireenyi si biraa si biraa Gooftaa koo\nMana kee jiraachuun fo'adhaa iddoo biraarra guyyaa tokko.]*2 ",
+            "telegramLink": "https://t.me/Weedduuk00/2033"
+        },
+        {
+            "uniqueKey": "adisu_qana_album_07",
+            "singer": "Adisu Qana'a",
+            "title": "Burqaa Nagaakoo",
+            "addedDate": "2025-04-01 16:15",
+            "album": "Album 1",
+            "lyrics": "[Burqaa Nagaa koo Yesuus\nMootii ulfinaa Yesuus\nWaaqa Jaalalaa Yesuus\nGalatan siif Qaba Yesuus]*2\n\nBarakootti isa ati naaf goote ani hin dagadhu\nTumsa keef ulfaadhun siin jedha naaf ulfaadhu\nGatiidhaanis hin herregamuu hammanaa fi hammasii\nSiin wareega hoodhu hoodhu galatako ammasii\n\n[Burqaa Nagaa koo Yesuus\nMootii ulfinaa Yesuus\nWaaqa Jaalalaa Yesuus\nGalatan siif Qaba Yesuus]*2\n\nSin mariisisee dhimmaakoo\nAtoo natti hin jabaanne boquu\nNarraa calaafte gaddakoo\nisicha sammuu kiyya jeequ \nulfaadhu abbaakoo\n\n[Galataa *2 Galatan  siif dhiyeessa\nHoggayyuu hin dhabamu jajuun kee \nAfaan kiyya keessaa]*2\n\nNagaan koo boorofnaan hunduu natti galee dalga\nDhaabachuus dadhabe ana mudhukaa'e molgaan\nLibsuu ijaatti na biraan baate\nSiif jira hin boo'iin dhalakoo jette\nKeessa onnee koo gammachuun guutte\nNa guuchifteem ulaaga\n\n[Gooftaa YESUUS siif qabaa wareega\nHoodhu Hoodhu galata/kabaja fudhukaa]*3",
+            "telegramLink": "https://t.me/Weedduuk00/2036"
+        },
+        {
+            "uniqueKey": "adisu_qana_album_08",
+            "singer": "Adisu Qana'a",
+            "title": "Lubbuu koo",
+            "addedDate": "2025-04-01 16:15",
+            "album": "Album 1",
+            "lyrics": "Hin dagatiin mee yaadadhuu isanni siif oole\nSi'iin falmatee du'a si oolchee diina kee haleelee\nOolmaa akka laayyootti hin ilaalamne sirraa qaba\nFidiif galata kaasuu guutii laadhuuf hoqubaa\n\nLubbuu koo *2 Lubbuukoo Waaqayyoon eebbisi \nIsaani Sirra Darbe Hojiin Badisi\nLubbuu koo *2 Lubbuukoo Waaqayyoon eebbisi \nGaarummaaf Guddumasaa labsii baayisi\n\n\nSi'ii abdii kutatee dhiise waa'ee jireenyaa\nFalmee du'a garasii dhaabate siif beenyaa\nCicireeraa sirraa isa kan gaddaa maaqii\nSi irraanfachiisee gadadookee fi siqiqii\n\nJajadhu *3 ya lubbuukoo maqaa isaa kana\nOtoo isa hin taane baddeetu hafta \nEddoon awwaalcha kee hin beekamu yoona\n\nLubbuu koo *2 Lubbuukoo Waaqayyoon eebbisi \nIsaani Sirra Darbe Hojiin Badisi\nLubbuu koo *2 Lubbuukoo Waaqayyoon eebbisi \nGaarummaaf Guddumasaa labsii baayisi\n\n\nSababni danuudha akka isa eebbiftuu\nAbbaaf haadha caalaa siif tahe isatu\nIsa kan si baate isa kan siif lole\nWaawwannaa keef gaddee rakkoo keef siin gidduu gale\n\nHin nuffin *3 ya lubbuukoo maqaa isaa jajuu\nYaadadhu malee birmannaa dhabnaan isanni obse -------\n\n\nLubbuu koo *2 Lubbuukoo Waaqayyoon eebbisi \nIsaani Sirra Darbe Hojiin Badisi\nLubbuu koo *2 Lubbuukoo Waaqayyoon eebbisi \nGaarummaaf Guddumasaa labsii baayisi\n\n\nMuxuxxee dadhabnaan Siif ta'eera aangoo \nBarbaacha dhabnaanis si fideeraa fagoo\nBadisa keef gaddee jiraachuu kee hawwee\nSiif hin duuchineeree jireenya ke isa qaawwe\nAkkamiin waakkatta Gooftaa kana leellisuuf innoo hin nuffamu\nMaqaa fayyinaa keetii isa tahe maqaan yesuus haa eebbifamu\n\nLubbuu koo *2 Lubbuukoo Waaqayyoon eebbisi \nIsaani Sirra Darbe Hojiin Badisi\nLubbuu koo *2 Lubbuukoo Waaqayyoon eebbisi \nGaarummaaf Guddumasaa labsii baayisi",
+            "telegramLink": "https://t.me/Weedduuk00/2029"
+        },
+        {
+            "uniqueKey": "adisu_qana_album_09",
+            "singer": "Adisu Qana'a",
+            "title": "Waaqni Beeka Gargaarutti",
+            "addedDate": "2025-04-01 16:15",
+            "album": "Album 1",
+            "lyrics": "Warra isa jaallatan mara (waaqni beeka gargaarutti *2)\nKallattii hundaan gargaaree in geessa gara gaariitti \nOl baasaam gara gaaraatti\nIsaanoo warra akka akeeka isaatitti waamamanii\nCarra qabootaa duraan dursanii warra fo'amani\nKunimmoo sin ilaallata kanumaafuu dursee yaada isaan Sin qabeem inni\nKunimmoo na ilaallata kanumaafuu dursee yaada isaan na qabeem inni\n\nWarra duraan dursee waame warra yaada isaan qabe\nQajeelummaatti guddisa hin dhiisu itti dadhabee\nCarraa kana warri dhabe haa gadduu nu maal gaddinaa\nFuulduratti adeemaa jirraa arguudhaaf teessuma ulfinaa\n\nIsaanoo warra akka akeeka isaatitti waamamanii\nCarra qabootaa duraan dursanii warra fo'amani\nKunimmoo sin ilaallata kanumaafuu dursee yaada isaan Sin qabeem inni\nKunimmoo na ilaallata kanumaafuu dursee yaada isaan na qabeem inni\n\nWaamicha kanatti argamuuf nu keessaa eenyutu akeeke\nGooftaatoo durumaan dursee garaa haadha keenyaatti nu beeke\nDhumarratti otoo eegamnuu taaneerra warra tokkoffaa\nHinaaffaa kanaatu edaa diinaa keenya olii gadi hurgufa\n\nIsaanoo warra akka akeeka isaatitti waamamanii\nCarra qabootaa duraan dursanii warra fo'amani\nKunimmoo sin ilaallata kanumaafuu dursee yaada isaan Sin qabeem inni\nKunimmoo na ilaallata kanumaafuu dursee yaada isaan na qabeem inni\n\nYaaduma isaa keessaa qabaa nu waamuuf kan karoorfatee\nNamaan dagatamne malee yoom nu dhiise inni tuffatee\nHar'a garuu maqaa isaatiin tuffatamuu jalaa baanee\nQomoo fo'amoo jedhamnee luboota mana isaa taanee\n\nIsaanoo warra akka akeeka isaatitti waamamanii\nCarra qabootaa duraan dursanii warra fo'amani\nKunimmoo sin ilaallata kanumaafuu dursee yaada isaan Sin qabeem inni\nKunimmoo na ilaallata kanumaafuu dursee yaada isaan na qabeem inni\n\n \nWarri dhiiga isaan bitamnee taaneerra dhuunfaa waaqayyoo\nSichi homaa walbiraa hin qabnu ya biyya lafaa siif wayyoo\nNu'i saba kakuu Yesuusi kanaaf diinni nu dadhabe\nKanarra immoo maal haa fidu mukatu afaanitti cabe \n\nIsaanoo warra akka akeeka isaatitti waamamanii\nCarra qabootaa duraan dursanii warra fo'amani\nKunimmoo sin ilaallata kanumaafuu dursee yaada isaan Sin qabeem inni\nKunimmoo na ilaallata kanumaafuu dursee yaada isaan na qabeem inni",
+            "telegramLink": "https://t.me/Weedduuk00/2025"
+        },
+        {
+            "uniqueKey": "adisu_qana_album_10",
+            "singer": "Adisu Qana'a",
+            "title": "Safuu Waaqa Keenyaa",
+            "addedDate": "2025-04-01 16:15",
+            "album": "Album 1",
+            "lyrics": "",
+            "telegramLink": "https://t.me/Weedduuk00/2032"
+        },
 
 
 {
-      "uniqueKey": "adisu_qana_album_09",
-      "singer": "Adisu Qana'a",
-      "title": "Safuu Waaqa Keenyaa",
-      "addedDate": "2025-04-01 16:15",
-      "album": "Album 1",
-      "lyrics": "",
-      "telegramLink": "https://t.me/Weedduuk00/2032"
-    }
+    "uniqueKey": "adisu_qana_album_11",
+    "singer": "Adisu Qana'a",
+    "title": "Falmadhu",
+    "addedDate": "2025-04-01 16:15",
+    "album": "Album 1",
+    "lyrics": "Falmadhu gooftaa gatii dhiiga keetii\nDanuu manca'ee iddoon aarsaa keetii\nBoquu jabaatee ija jabinaan kufeera Hundi cubbuuttii\nJaalalli dhibnaan dabarsee wal kenna jira namni du'atti\n\n     Maaloo *2\n\nAraara siin jenna waaqayyo nu yaadadhu\nFaara tolaadhan al tokko nu milladhuu\nIddoo aarsaakee falmadhu\n\nBaayiseen gadde diigamuu isaatiif iddoon aarsaa keeti\nTiksituu dhabdee yeroo nyaatamtu hoolonni bakkeetti\nJirra jirra utuu ofiin jennuutu bakkaa dhabamne\nTajaajiltoonni warri ati abdatte galfata kee nyaanne\n\nFalmadhu gooftaa gatii dhiiga keetii\nDanuu manca'ee iddoon aarsaa keetii\nBoquu jabaatee ija jabinaan kufeera Hundi cubbuuttii\nJaalalli dhibnaan dabarsee wal kenna jira namni du'atti\n\n     Maaloo *2\n\nAraara siin jenna waaqayyo nu yaadadhu\nFaara tolaadhan al tokko nu milladhuu\nIddoo aarsaakee falmadhu\n\nNutti fakkate waan hundaa beekuun dubbiin waan nuu gale\nShamarran keenyaf dargaggoo waliin xuraa'un  faale\nHammeenyi guute kan dhugaa qabus keessa ceepha'ame\nFalmadhu gooftaa mana qulqullumaa kee isa diigame\n\nFalmadhu gooftaa gatii dhiiga keetii\nDanuu manca'ee iddoon aarsaa keetii\nBoquu jabaatee ija jabinaan kufeera Hundi cubbuuttii\nJaalalli dhibnaan dabarsee wal kenna jira namni du'atti\n\n     Maaloo *2\n\nAraara siin jenna waaqayyo nu yaadadhu\nFaara tolaadhan al tokko nu milladhuu\nIddoo aarsaakee falmadhu\n\nHoolaa fakkaatee mana kee keessa bineensatu guute\nGaraaf jiraata kan bara kanaa geggeessa fakkaatee\nTokkummaan dhibee baayeensaa namni yaa'a jira gadi\nSafuu kee gatee qoree dhoqqee keessaa walitti ta'e hundi\n\nFalmadhu gooftaa gatii dhiiga keetii\nDanuu manca'ee iddoon aarsaa keetii\nBoquu jabaatee ija jabinaan kufeera Hundi cubbuuttii\nJaalalli dhibnaan dabarsee wal kenna jira namni du'atti\n\n     Maaloo *2\n\nAraara siin jenna waaqayyo nu yaadadhu\nFaara tolaadhan al tokko nu milladhuu\nIddoo aarsaakee falmadhu\n\nGeggeessaa dhugaa nama ifatee iddootti deebisu\nJaalalaan qabe gorsees balleessaasaa kan hubachiisu\nWaa'ee mana keef nama inaaffan garaa isaa nyaatu\nMaaloo muudame mana kee keessaa bakka haa qabatuu\n\n[Duuruma yoom dhibe kan haala dhufuun jijjiramu\nNama akka garaa keetu dhibe malee kan dhugaaf falmu\nIccitii mana kee kan eegu seenas kan galmeessu\nMaalo dibi kaasi hirmii mana kee kan qulqulleessu]*2",
+    "telegramLink": "https://t.me/Weedduuk00/2032"
+},
 
-  ],
-  "youtube": "http://www.youtube.com"
+
+
+{
+    "uniqueKey": "adisu_qana_album_12",
+    "singer": "Adisu Qana'a",
+    "title": "Fiixaan Ba'eera",
+    "addedDate": "2025-04-01 16:15",
+    "album": "Album 1",
+    "lyrics": "Namni jedheetiifoo miti ofiin arge marartee kee\nOtoomanni na fayyisuu na qaqqabate Harki kee\nGalaana yaaddoo siin ce'ee harka qabdee asiin na geesse\nUlfaadhu abbaakoo maalan hima uffee garaa na geesse\n[Yoo kamiin dubbatani kam lafatti hafa kankee kunii\nSafuu ajaa'ibuma na dhibe anaani\nNa dhibe anaanii jajami baraanii *2]*2\n\nDaangaa kan hin qabnedha jaalalli ati anaaf qabdu\nGaraa Jabaattewoo takkaa nyaara anatti hin baddu\nHarki ke gaariin suni lafa onaatti na danda'e\nAkka keetifanoo jira sitoo asiin na gahe \n\n[Yoo kamiin dubbatani kam lafatti hafa kankee kunii\nSafuu ajaa'ibuma na dhibe anaani\nNa dhibe anaanii jajami baraanii *2]*2\n\nKan ke kunillee safuudha kam dubbatanii kam dhiisuu\nHaati deessellee in dadhabdi bakka hundaa namaan geessu\nAti garuu anaaf taate isan eege gararraa\nDhimmakoof wabii dabarte Jettee Fiixaan ba'eera\n\nJaalala dhugaa mul'isuuf jettee  Du'a koo duutee\nHojiikoos sanas ati gooftaakoo anaaf hojjette\nEenyutu salphateree Yesuus koo si'iin amanee\nRiqicha amansiisaa naaf taate duuti nan nyaanne\n[Duuti nan nyaanne waaqayyookoo si'iin amanee\nDuutii nan nyaannee yaa yesuuskoo si'iin amanee*2\n\nKan namni xiinxalu tokko kan ati yaaddu Kanbiraa\nIfa na baaftee fayyina anatti agarsiifteem karaa\nGalata yennaan siin jedhe innuu sitti xinnaata\nSitti haa tolu yesuuskoo garaa na cibsiteetta\n\n\nJaalala dhugaa mul'isuuf jettee  Du'a koo duutee\nHojiikoos sanas ati gooftaakoo anaaf hojjette\nEenyutu salphateree Yesuus koo si'iin amanee\nRiqicha amansiisaa naaf taate duuti nan nyaanne\n[Duuti nan nyaanne waaqayyookoo si'iin amanee\nDuutii nan nyaannee yaa yesuuskoo si'iin amanee*2",
+    "telegramLink": "https://t.me/Weedduuk00/2032"
+}
+
+
+
+    ],
+    "youtube": "http://www.youtube.com/channel/UCkCWMKIgHRNvfOqxhfdPFsw"
 }
