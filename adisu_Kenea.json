@@ -1,7 +1,7 @@
 {
     "songs": [
         {
-            "uniqueKey": "adisu_qana_album_01",
+            "uniqueKey": "adisu_kenea_album_01",
             "singer": "Adisu Kenea",
             "title": "Ol Galee Gadi Ba'ee",
             "addedDate": "2025-04-01 16:15",
@@ -10,7 +10,7 @@
             "telegramLink": "https://t.me/Weedduuk00/2031"
         },
         {
-            "uniqueKey": "adisu_qana_album_02",
+            "uniqueKey": "adisu_kenea_album_02",
             "singer": "Adisu Kenea",
             "title": "Jaalala Nama Hundaa",
             "addedDate": "2025-04-01 16:15",
@@ -22,7 +22,7 @@
 
 
 {
-    "uniqueKey": "adisu_qana_album_03",
+    "uniqueKey": "adisu_kenea_album_03",
     "singer": "Adisu Kenea",
     "title": "Turi Fuula Waaqayyoo",
     "addedDate": "2025-04-01 16:15",
@@ -33,7 +33,7 @@
 
 
         {
-            "uniqueKey": "adisu_qana_album_04",
+            "uniqueKey": "adisu_kenea_album_04",
             "singer": "Adisu Kenea",
             "title": "Jechan Dhaba Yesuuse",
             "addedDate": "2025-04-01 16:15",
@@ -42,7 +42,7 @@
             "telegramLink": "https://t.me/Weedduuk00/2028"
         },
        {
-            "uniqueKey": "adisu_qana_album_05",
+            "uniqueKey": "adisu_kenea_album_05",
             "singer": "Adisu Kenea",
             "title": "Goota Jabaa",
             "addedDate": "2025-04-01 16:15",
@@ -51,7 +51,7 @@
             "telegramLink": "https://t.me/Weedduuk00/2026"
         },
         {
-            "uniqueKey": "adisu_qana_album_06",
+            "uniqueKey": "adisu_kenea_album_06",
             "singer": "Adisu Kenea",
             "title": "Mana kee Jiraachuun",
             "addedDate": "2025-04-01 16:15",
@@ -60,7 +60,7 @@
             "telegramLink": "https://t.me/Weedduuk00/2033"
         },
         {
-            "uniqueKey": "adisu_qana_album_07",
+            "uniqueKey": "adisu_kenea_album_07",
             "singer": "Adisu Kenea",
             "title": "Burqaa Nagaakoo",
             "addedDate": "2025-04-01 16:15",
@@ -69,7 +69,7 @@
             "telegramLink": "https://t.me/Weedduuk00/2036"
         },
         {
-            "uniqueKey": "adisu_qana_album_08",
+            "uniqueKey": "adisu_kenea_album_08",
             "singer": "Adisu Kenea",
             "title": "Lubbuu koo",
             "addedDate": "2025-04-01 16:15",
@@ -78,7 +78,7 @@
             "telegramLink": "https://t.me/Weedduuk00/2029"
         },
         {
-            "uniqueKey": "adisu_qana_album_09",
+            "uniqueKey": "adisu_kenea_album_09",
             "singer": "Adisu Kenea",
             "title": "Waaqni Beeka Gargaarutti",
             "addedDate": "2025-04-01 16:15",
@@ -87,7 +87,7 @@
             "telegramLink": "https://t.me/Weedduuk00/2025"
         },
         {
-            "uniqueKey": "adisu_qana_album_10",
+            "uniqueKey": "adisu_kenea_album_10",
             "singer": "Adisu Kenea",
             "title": "Safuu Waaqa Keenyaa",
             "addedDate": "2025-04-01 16:15",
@@ -98,7 +98,7 @@
 
 
 {
-    "uniqueKey": "adisu_qana_album_11",
+    "uniqueKey": "adisu_kenea_album_11",
     "singer": "Adisu Kenea",
     "title": "Falmadhu",
     "addedDate": "2025-04-01 16:15",
@@ -110,7 +110,7 @@
 
 
 {
-    "uniqueKey": "adisu_qana_album_12",
+    "uniqueKey": "adisu_kenea_album_12",
     "singer": "Adisu Kenea",
     "title": "Fiixaan Ba'eera",
     "addedDate": "2025-04-01 16:15",
@@ -121,7 +121,7 @@
 
 
          {
-            "uniqueKey": "adisu_qana_album_13",
+            "uniqueKey": "adisu_kenea_album_13",
             "singer": "Adisu Kenea",
             "title": "Dhugaa Wangeelaa",
             "addedDate": "2025-04-01 16:15",
@@ -131,7 +131,7 @@
         },
 
                {
-            "uniqueKey": "adisu_qana_album_14",
+            "uniqueKey": "adisu_kenea_album_14",
             "singer": "Adisu Kenea",
             "title": "Maal Godhaafii",
             "addedDate": "2025-04-01 16:15",
@@ -146,6 +146,7 @@
     ],
     "youtube": "http://www.youtube.com/@addisukenea1"
 }
+
 
 
 
